@@ -62,7 +62,6 @@ class ViewController: UIViewController {
                     if !isInt {
                         return
                     }
-                    
                 }
                 
                 displayLabel.text = displayLabel.text! + numValue

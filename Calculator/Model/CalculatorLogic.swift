@@ -59,7 +59,6 @@ struct CalculatorLogic {
             default:
                 fatalError("The operation passed in does not match any of the cases.")
             }
-            
         }
         return nil
     }
